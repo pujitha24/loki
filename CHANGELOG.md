@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.7.8](https://github.com/grafana/loki/compare/v3.7.7...v3.7.8) (2026-09-09)
+
+
+### Bug Fixes
+
+* **security/HIGH/:** Update module google.golang.org/grpc to v1.83.1 [SECURITY] (release-3.7.x) ([#24328](https://github.com/grafana/loki/issues/24328)) ([0a01797](https://github.com/grafana/loki/commit/0a01797da781f4d715d48028ff45a63fc273cd6b))
+* **security/HIGH/:** Update module google.golang.org/grpc to v1.83.2 [SECURITY] (release-3.7.x) ([#24429](https://github.com/grafana/loki/issues/24429)) ([14b5da8](https://github.com/grafana/loki/commit/14b5da8339b001e765cb60c0cc15eaf44fb69fbd))
+* **security/UNKNOWN/pkg/push:** Update module google.golang.org/grpc to v1.83.1 [SECURITY] (release-3.7.x) ([#23416](https://github.com/grafana/loki/issues/23416)) ([cd8e76d](https://github.com/grafana/loki/commit/cd8e76da123e93756448a2f8d56f94a9a86d7346))
+* **security/UNKNOWN/:** Update module golang.org/x/crypto to v0.56.0 [SECURITY] (release-3.7.x) ([#24335](https://github.com/grafana/loki/issues/24335)) ([47149cb](https://github.com/grafana/loki/commit/47149cbb5c76384ee1599e2df82ad3e0cba5a824))
+
 ## [3.7.7](https://github.com/grafana/loki/compare/v3.7.6...v3.7.7) (2026-08-27)
 
 
